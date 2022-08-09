@@ -9,7 +9,7 @@
 ### Como usar este repositoria
 
 Cada lección esta en GitHub en el repositorio https://github.com/ninjadelcodigo/html-css-curso-intensivo.
-Para acceder al código de la lección es necesario seleccionar la lección que se quiera ver en el drop-down de branches arriba a la derecha (donde indica ahora "main").  Escojer la lección a navegar y github mostrara el contenido de la leccion.
+Para acceder al código de la lección es necesario seleccionar la lección que se quiera ver en el drop-down de branches arriba a la izquierda (donde indica ahora "main").  Escojer la lección a navegar y github mostrara el contenido de la leccion.
 Las lecciones se pueden bajar en archivos ZIP (fácilmente) o usando git (para los que conocen como hacerlo).
 Cualquier duda porfavor escribirme a ninjadelcodigo@gmail.com.
 
