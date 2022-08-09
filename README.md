@@ -1,4 +1,4 @@
-## Tutoria de HTML y CSS Curso Intensivo (Para Principiantes)  
+## Tutorial de HTML y CSS Curso Intensivo (Para Principiantes)  
 
 * No se necesita conocimiento de HTML ni CSS 
 * Aprenderás a configurar tu entorno local de desarrollo
