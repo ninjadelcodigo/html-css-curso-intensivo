@@ -1,19 +1,32 @@
-## Tutoria de HTML y CSS Curso Intensivo (Para Principiantes)  
+## Tutoria de HTML y CSS Curso Intensivo (Para Principiantes)  - #1. Introducción
 
-* No se necesita conocimiento de HTML ni CSS 
-* Aprenderás a configurar tu entorno local de desarrollo
-* Aprenderás a usar la nueva version de HTML5 (carácteristicas y especificaciones)
-* Cubriremos diseño responsivo y móvil
-* Crearás un proyecto de página web desde cero usando HTML y CSS
+### En esta lección:
 
-### Como usar este repositoria
+* Qué es HTML
+** significado (Hyper Text Markup Language) (Lenguaje de Notación en Hiper Texto) (no es un lenguaje de programación)
+** tags
+** cómo funciona
 
-Cada lección esta en GitHub en el repositorio https://github.com/ninjadelcodigo/html-css-curso-intensivo.
-Para acceder al código de la lección es necesario seleccionar la lección que se quiera ver en el drop-down de branches arriba a la izquierda (donde indica ahora "main").  Escojer la lección a navegar y github mostrara el contenido de la leccion.
-Las lecciones se pueden bajar en archivos ZIP (fácilmente) o usando git (para los que conocen como hacerlo).
-Cualquier duda porfavor escribirme a ninjadelcodigo@gmail.com.
+* Qué es CSS
+** significado (Cascading Style Sheets)
+** pará que se usa
 
-Gracias y feliz aprendisaje!
+### Qué herramienta usar para escribir HTML y CSS
+
+* Usar Visual Studio Code (VS Code):  https://code.visualstudio.com/
+* Usar Chrome para ver página creada
+
+### Comenzar con VS Code
+* 1ero crear folder llamado "html-css-curso-intensivo"
+* Abrir VS Code y seleccionar Archivo->Abrir Folder  
+* Crear archivo nuevo y llamarlo "index.html"
+* comenzar a escribir tags (!DOCTYPE, html, body, head)
+* Abrir archivo en Windows/Mac (usando protocolo file) (luego usaremos un servidor local) y ver titulo de página creado
+* Añadir tag 'p'
+* Instalar extensi+n Live Server en VS Code
+* Hacer cambios a página y ver como página se actualiza automáticamente
+* Inspeccionar un elemento en un navegador (Chrome) (ver Google chrome development tools panel)
+* Inspeccionar otra página (https://github.com)
 
 
 Curso original en Inglés por Net Ninja:  https://www.youtube.com/watch?v=hu-q2zYwEYs
