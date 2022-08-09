@@ -1,4 +1,4 @@
-## Tutoria de HTML y CSS Curso Intensivo (Para Principiantes)  - #1. Introducción
+## Lección #1. Introducción
 
 ### En esta lección:
 
