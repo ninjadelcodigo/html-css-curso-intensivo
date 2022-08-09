@@ -13,7 +13,7 @@ Para acceder al código de la lección es necesario seleccionar la lección que 
 Las lecciones se pueden bajar en archivos ZIP (fácilmente) o usando git (para los que conocen como hacerlo).
 Cualquier duda porfavor escribirme a ninjadelcodigo@gmail.com.
 
-Gracias y feliz aprendisaje!
+Gracias y feliz aprendizaje!
 
 
 Curso original en Inglés por Net Ninja:  https://www.youtube.com/watch?v=hu-q2zYwEYs
