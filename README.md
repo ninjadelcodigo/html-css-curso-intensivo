@@ -1,4 +1,4 @@
-## Lección #2: HTML Básico
+## Lección #2:  HTML Básico
 
 ### En esta lección:
 
@@ -21,7 +21,7 @@
 * usando atributos con propiedades y valores contenidos.  ejemplo, tag "p", con atributo "style" con  "color" de valor "orange")
 * añadir comentarios en HTML
 
-# Resumen
+### Resumen
 * Aprendimos algunos de los tags más comunes de páginas HTML
 ** - p, ul, li, div, a, img, etc
 * Hablamos de atributos (src, href, cite, alt, etc)
@@ -29,7 +29,7 @@
 
 
 
-# Importante
+### Importante:
 No importa si no te acuerdas los tags ahora.  Una buena desarrolladora de HTML no necesariemente se acuerda de todo.  Google sirve para buscarlos cuando sea necesario.
 
 Curso original en Inglés por Net Ninja:  https://www.youtube.com/watch?v=hu-q2zYwEYs
