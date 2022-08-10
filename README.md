@@ -1,4 +1,4 @@
-## Lección #1. Introducción
+## Lección #1: Introducción
 
 ### En esta lección:
 
