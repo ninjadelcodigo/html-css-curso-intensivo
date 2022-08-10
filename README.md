@@ -1,4 +1,4 @@
-## Lección #2: HTML Básico
+## Lección #2:  HTML Básico
 
 ### En esta lección:
 
