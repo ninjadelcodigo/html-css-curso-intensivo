@@ -1,50 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Aprendiendo HTML</title>
+    <title>Formularios de HTML</title>
 </head>
 <body>
     
-    <div>
-        <p>hola, <strong>ninjas</strong></p>
-        <p>mi <small>primera</small> página <em>web</em></p>
-        <a href="https://github.com/ninjadelcodigo">repositorios del ninja</a>
-        <br>
-        <a href="about.html">nosotros</a>
-    </div>
+    <h1>Formularios de HTML</h1>
 
-    <div>
-        <h1>encabezado 1</h1>
-        <h2>encabezado 2</h2>
-        <h3>encabezado 3</h3>
-        <h4>encabezado 4</h4>    
-    </div>
-
-    <div>
-        <ul>
-            <li>peach</li>
-            <li>mario</li>
-            <li>yoshi</li>
-            <li>luigi</li>
-        </ul>
-    </div>
-
-    <!-- este es un comentario / no aparecerá en la página web -->   
-    <span>este es un<br> span tab</span>
-
-    <br>
-    <!-- el siguiente span no aparecerá en página porque está comentado -->
-    <!-- <span>este es otro<br> span tab</span> -->
-
-    <hr>
-
-    <img src="img/ninja.png" alt="imagen de un ninja">
-
-    <blockquote cite="https://es.wikiquote.org/wiki/Martin_Luther_King">
-        Ojo por ojo y todo el mundo acabará ciego
-    </blockquote>
-
-    <p style="color: orange;">dame estilo :)</p>
+    <form>
+        <label for="usuario">ingresar usuario:</label>
+        <input type="text" id="usuario">
+        <br><br>
+        <label for="email">ingresar email:</label>
+        <input type="email" id="email">
+        <br><br>
+        <label for="contraseña">ingresar contraseña:</label>
+        <input type="password" id="contraseña">
+        <br><br>
+    </form>
 </body>
 
 </html>

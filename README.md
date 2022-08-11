@@ -1,31 +1,21 @@
-## Lección #2:  HTML Básico
+## Lección #3:  Forumularios de HTML
 
 ### En esta lección:
 
-* Veremos tags de HTML en más detalle
+* Veremos forumlarios de HTML en detalle
 
 ### Ejemplos
-* usar tag "strong" para mostrar letras en formato negrita
-* usar "em" para y "small" para letras itálicas y reducir el tamaño de letra
-* diferentes tipos de encabezados (h1, h2, h3, h4, h5 y h6)
-* listas usando "ul" y "li"  (usar "ol" para listas ordenadas (ordered list))
-* usar "div" para agrupar elementos (no son visibles necesariamente a menos que se combinen con CSS como veremos después)
-* el tag "span" (similar a tag de párrafo "p" pero se comporta diferente como veremos luego)
-* tags que no necesitan un tag para cerrar ("br", "hr", "img")
-* usando atributos de tags de HTML ("src" de "img")
-* crear folder para imagenes y mover la imagen a ese folder (ver que página cambia y no se muestra el ninja)
-* se modifica el atributo src para indicar la locación nueva de la imagen 
-* usar el atributo "alt" para describir una imagen
-* otro tag con atributo es "a" (anchor) que crea un enlace a cualquier página fuera o dentro de la aplicación web
-* más tags con atributos:  "blockquote"
-* usando atributos con propiedades y valores contenidos.  ejemplo, tag "p", con atributo "style" con  "color" de valor "orange")
-* añadir comentarios en HTML
+* ver ejemplo de AirBnb inspeccionando página
+* usando el tag formulario
+* añadiendo entradas (tag "input") e identificadores (atributo "id") al formulario 
+* usar etiqueta (tag "label") para indicar para que sirven las entradas (relacionar etiqueta con atributo "for" (para))
+* nota: la entrada "usuario" y "email" parcen similares pero detrás de cámaras funcionan diferentes
+* añadir entrada de tipo "password" (type="password") y ver como funciona
+* es valioso añadir un atributo "name" a los tags de entrada ya que son identificadores que sirven para los backend*
 
 ### Resumen
-* Aprendimos algunos de los tags más comunes de páginas HTML
-** - p, ul, li, div, a, img, etc
-* Hablamos de atributos (src, href, cite, alt, etc)
-* Cómo crear comentarios en un archivo HTML
+
+
 
 
 
