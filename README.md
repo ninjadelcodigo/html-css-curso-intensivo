@@ -1,4 +1,4 @@
-## Lección #3:  Forumularios de HTML
+## Lección #3: - Forumularios de HTML
 
 ### En esta lección:
 
