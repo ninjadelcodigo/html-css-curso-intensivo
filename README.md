@@ -22,19 +22,21 @@
 * botón de enviar formulario (tag "input" con attributo tipo igual a "submit")
 * cuando envías un formular el formulario ejecuta la acción descrita en el atributo ("action") del formulario (tag "form") para enviarsela al servidor para ser procesada por la parte trasera de la aplicación (backend) o también puede ser procesada por JavaScript (esto se podrá aprender en otros cursos)
 * añadir required
+* presionar en botón y ver como las entradas que tienen nombre "name" aparecen en el URL
 
 *IMPORTANTE: tenemos que acostumbrarnos a usar atributos nombres "name" ya que esto srive para la comunicación con la parte trasera de la aplicación (backend)   (comunicación con el servidor).  en otra clase de programación de back-end (servidor de data, servicios, etc).  es importante saber esto por más de que no lo usaremos en esta clase entender el para qué de lo que hacemos y acostumbrarnos a usar buenas prácticas es crítico.
 
 **nota: cuando el usuario cliquea sobre un botón radio, se torna seleccionado y todos los demas botones con el mismo nombre ("name") se deseleccionan.   
 
 ### Resumen
-*
-
-
+* Como crear un formulario web y para que sirve el atributo "acción" (action) del formulario
+* Vimos bastantes tipos de tag input (entrada) comunmente usados en formularios (text, email, password, radio, select, textarea)
+* Como usar etiquetas (tags "label"), así como los atributos identificadores (id) y nombres (name)
+* Como los formularios son enviados y valdiados
 
 
 ### Importante:
-No importa si no te acuerdas los tags ahora.  Una buena desarrolladora de HTML no necesariemente se acuerda de todo.  Google sirve para buscarlos cuando sea necesario.
+No importa si no te acuerdas los tags, tipos y atributos de formularios ahora.  Una buena desarrolladora de HTML no necesariemente se acuerda de todo.  Google sirve para buscarlos cuando sea necesario.
 
 Curso original en Inglés por Net Ninja:  https://www.youtube.com/watch?v=hu-q2zYwEYs
 
