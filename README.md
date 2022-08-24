@@ -1,25 +1,23 @@
-## Lección #4: - Escenciales de CSS
+## Lección #5: - Elemetos en linea y en bloque de CSS
 
 ### En esta lección:
 
-* Veremos lo básico de CSS
+* Veremos lo básico de CSS en bloque y en linea
 
 ### Ejemplos
-* CSS (Cascading Style Sheets) sirve para que el contenido de HTML se vea más presentable
-* conjuto de reglas (mostrar diapositiva) (conjunto de reglas)
-* sintáctica básica:  seleccionadores (selectors), declaraciones (declarations)
-* las reglas de CSS pueden estar dentro del archivo CSS o como archivos separados (index.html y about.html) con tags básicos de HTML
-* comenzaremos por añadir reglas dentro del archivo HTML usando el tag "style" dentro del "head" pero no es la mejor idea porque se tendrian que añadir en el "head" de todas las páginas 
-* es preferible usar archivos separados de estilo y usar el tag "link" para incluir los estilos en los archivos HTML
-* otros tipos de declaraciones (background-color, font-size, text-decoration, font-family (1), text-align, etc. )  (ver IMPORTANTE abajo y código en syles.css)
-* comentarios en CSS
-* usar codigos hexadecimales para colores (hex codes).  usar VS Code para seleccionar diferentes colores usando codigos hex
 * elements HTML en linea (span, img, strong, a) y en bloque (div)
+* margen y relleno (margin y padding)
+* los elementos a nivel-linea no tienen margen encima ni abajo (no hay margin-top ni margin-bottom)
+* el margen colapsa en elementos en linea sobre poniendolos
+* el margen colapsa en elementos en bloque tomando el margen más grande
+* usar display:inline-block para que elementos en linea usen el margen y relleno similarmente a elementos en bloque
+* elementos por definición de navegador (default browser style) ("user agent stylesheet") se pueden sobre-escribir con nuestras propias reglas
 
-(1) Es importante usar un font-family que sea segura para la web (que se pueda mostrar en todos los navegadores).   Para ver cuales son visitar w3schools: https://www.w3schools.com/cssref/css_websafe_fonts.asp
 
 ### Resumen
-* 
+* Inline and block-level elements (and inline-block)
+* Margin & Padding
+* Default browser styles
 
 
 ### Importante:
