@@ -14,12 +14,14 @@
 * otros tipos de declaraciones (background-color, font-size, text-decoration, font-family (1), text-align, etc. )  (ver IMPORTANTE abajo y código en syles.css)
 * comentarios en CSS
 * usar codigos hexadecimales para colores (hex codes).  usar VS Code para seleccionar diferentes colores usando codigos hex
-* elements HTML en linea (span, img, strong, a) y en bloque (div)
+
 
 (1) Es importante usar un font-family que sea segura para la web (que se pueda mostrar en todos los navegadores).   Para ver cuales son visitar w3schools: https://www.w3schools.com/cssref/css_websafe_fonts.asp
 
 ### Resumen
-* 
+* What CSS is and how to add it to a webpage
+* Basic selectors and some different declarations/properties
+* *Hex codes and the VS Code colour picker
 
 
 ### Importante:
