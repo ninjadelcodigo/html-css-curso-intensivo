@@ -1,23 +1,18 @@
-## Lección #5: - Elemetos en linea y en bloque de CSS
+## Lección #6: - Clases, Selectores y Cascada de CSS
 
 ### En esta lección:
 
-* Veremos lo básico de CSS en bloque y en linea
+* Selectores
 
-### Ejemplos
-* elements HTML en linea (span, img, strong, a) y en bloque (div)
+### Selectores y Clases 
+* los selectores pueden usar clases que comienzan con un punto en CSS
 * margen y relleno (margin y padding)
-* los elementos a nivel-linea no tienen margen encima ni abajo (no hay margin-top ni margin-bottom)
-* el margen colapsa en elementos en linea sobre poniendolos
-* el margen colapsa en elementos en bloque tomando el margen más grande
-* usar display:inline-block para que elementos en linea usen el margen y relleno similarmente a elementos en bloque
-* elementos por definición de navegador (default browser style) ("user agent stylesheet") se pueden sobre-escribir con nuestras propias reglas
+
+### Selectores y IDs
+
 
 
 ### Resumen
-* Inline and block-level elements (and inline-block)
-* Margin & Padding
-* Default browser styles
 
 
 ### Importante:
